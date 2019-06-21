@@ -1,0 +1,6 @@
+D:\多线程\多线程\bin\Debug\多线程.exe.config
+D:\多线程\多线程\bin\Debug\多线程.exe
+D:\多线程\多线程\bin\Debug\多线程.pdb
+D:\多线程\多线程\obj\Debug\多线程.csprojResolveAssemblyReference.cache
+D:\多线程\多线程\obj\Debug\多线程.exe
+D:\多线程\多线程\obj\Debug\多线程.pdb
