@@ -15,7 +15,7 @@ namespace 多线程
             //Thread.CurrentThread.IsBackground 可设置前后台程序
             Console.WriteLine(Thread.CurrentThread.IsBackground);
             Thread.CurrentThread.IsBackground = false;
-            //开启一个线程 并弹出它是否是前后台线程 默认是前台线程aaaaaaaaaaaaaaaa
+            //开启一个线程 并弹出它是否是前后台线程 默认是前台线程aaaaaaaaaaaWWWWWWaaaaa
             Thread th=new Thread(delegate(){
                 Console.WriteLine("线程开启！");
             }
